@@ -214,7 +214,7 @@ df = prepare_data(df_raw)
 # =========================
 
 # ---- Titre / contexte ----
-st.title("🌫️ Qualité de l'air – station Châtelet (RER A)")
+st.title("Qualité de l'air – station Châtelet (RER A)")
 st.caption("Données horaires de PM10, température et humidité en station souterraine")
 
 st.markdown(
@@ -458,3 +458,4 @@ Elles permettent d'illustrer la surveillance de la qualité de l'air
 dans un environnement de transport très fréquenté.
 """
     )
+
